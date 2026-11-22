@@ -83,8 +83,7 @@ Insurance-Analysis/
 1. Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
-```
+https://github.com/jayprakashbiswa49-pixel/Insurance-Analysis
 
 2. Navigate to the project folder:
 
